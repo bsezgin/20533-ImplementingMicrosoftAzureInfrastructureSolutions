@@ -82,8 +82,7 @@
                     "windowsConfiguration": {v
                         "provisionVmAgent": "true"
                     }
-                },
-                "hardwareProfile": {
+                }
                  "virtualMachineSize": {
             "type": "string",
             "allowedValues": [
