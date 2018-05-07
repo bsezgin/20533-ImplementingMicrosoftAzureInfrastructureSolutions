@@ -1,3 +1,9 @@
-<a href="https://azuredeploy.net/?repository=https://github.com/bsezgin/20533-ImplementingMicrosoftAzureInfrastructureSolutions/tree/master/Allfiles/Labfiles/Lab02/Starter/Templates" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/>
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbsezgin%2F20533-ImplementingMicrosoftAzureInfrastructureSolutions%2Fmaster%2FAllfiles%2FLabfiles%2FLab02%2FStarter%2FTemplates%2Fazuredeployvm1.json" target="_blank">
+    <img src="https://azuredeploy.net/deploybutton.png"/>
 </a>
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fbsezgin%2F20533-ImplementingMicrosoftAzureInfrastructureSolutions%2Fmaster%2FAllfiles%2FLabfiles%2FLab02%2FStarter%2FTemplates%2Fazuredeployvm2.json" target="_blank">
+    <img src="https://azuredeploy.net/deploybutton.png"/>
+</a>
+
