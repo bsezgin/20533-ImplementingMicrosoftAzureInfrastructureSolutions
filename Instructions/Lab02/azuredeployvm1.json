@@ -147,9 +147,6 @@
                         "provisionVmAgent": "true"
                     }
                 },
-                "hardwareProfile": {
-                    "vmSize": "[parameters('virtualMachineSize')]"
-                },
                 "storageProfile": {
                     "imageReference": {
                         "publisher": "MicrosoftWindowsServer",
