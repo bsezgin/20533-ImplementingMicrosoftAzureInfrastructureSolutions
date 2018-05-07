@@ -2,12 +2,6 @@
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {
-        "virtualMachineSize": {
-            "type": "string",
-            "metadata": {
-                "description": "Virtual machine size"
-            }
-        },
         "virtualMachine1Name": {
             "type": "string",
             "defaultValue": "20533D0201-vm1",
@@ -85,12 +79,24 @@
                     "computerName": "[variables('virtualMachine1Name')]",
                     "adminUsername": "[parameters('adminUsername')]",
                     "adminPassword": "[parameters('adminPassword')]",
-                    "windowsConfiguration": {
+                    "windowsConfiguration": {v
                         "provisionVmAgent": "true"
                     }
                 },
                 "hardwareProfile": {
-                    "vmSize": "[parameters('virtualMachineSize')]"
+                 "virtualMachineSize": {
+            "type": "string",
+            "allowedValues": [
+                "Standard_D3s_v3",
+                "Standard_D4s_v3",
+                
+            ],
+            "defaultValue": "Standard_D2s_v3",
+            "metadata": {
+                "name": "Standard_D2s_v3"
+            }
+            }
+        },   
                 },
                 "storageProfile": {
                     "imageReference": {
