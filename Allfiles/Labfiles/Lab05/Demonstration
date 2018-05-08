@@ -1,0 +1,19 @@
+**Demonstration Steps**
+
+1.  In the Azure portal, create a new mobile app by specifying a unique valid URL, 
+    a new resource group named **20533D0502-DemoRG**, and the existing AdatumAppServicePlan App Service plan. 
+    Do not enable Application Insights.
+
+2.  In the Azure portal, navigate to the newly created mobile app. 
+    Open the Quickstart blade, choose Windows (C#) as the language for the business logic code,
+    and then click the Connect a database section.
+    
+3.  Add a data connection with the connection string MS_TableConnectionString to a new SQL Database named AdatumMobileDB. 
+    Set the pricing tier of the database to S0 Standard,
+    configure the corresponding Microsoft SQL Server instance 
+    with the admin user Instructor and the password Pa55w.rd, and then deploy it to the same location as the mobile app.
+    
+4.  On the Windows (C#) blade, under the Create a table API section, select C# as the back-end language.
+
+5.  Click the Download link, and then save the compressed files on your computer. 
+    These files contain the startup project that you can open in Visual Studio, develop the code, and then publish to Azure.
