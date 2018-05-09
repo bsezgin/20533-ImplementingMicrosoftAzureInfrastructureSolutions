@@ -3,7 +3,7 @@
 </a>
 <br>
 <br>
-Resource Group : 20533D0701-LabRG 
+Resource Group : **20533D0701-LabRG**
 <br>
 Region : South East Asia
 <br>
