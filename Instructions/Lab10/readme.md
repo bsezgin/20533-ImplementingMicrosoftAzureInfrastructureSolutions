@@ -5,10 +5,10 @@
 <br>
 Resource Group : 20533D1001-LabRG
 <br>
-Region : West Europe
+Region : South East Asia
 <br>
 Artifact Location : https://bulenteststorage.blob.core.windows.net/lab10
 <br>
 Artifact SAS : ?sv=2017-07-29&ss=bfqt&srt=sco&sp=rwdlacup&se=2018-05-12T03:31:34Z&st=2018-05-10T19:31:34Z&spr=https&sig=bbKi6Pnm8DPDnWo1ottyFeJJrA2TmFXivRMV2xjSJkA%3D
 <br>
-Virtual Machine Size : Standard_DS1_v2
+Virtual Machine Size : Standard_D2s_v3
