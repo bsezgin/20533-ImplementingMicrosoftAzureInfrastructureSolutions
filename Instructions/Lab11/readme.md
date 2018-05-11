@@ -5,6 +5,6 @@
 <br>
 Resource Group : 20533D1101-LabRG
 <br>
-Region : West Europe
+Region : South East Asia
 <br>
-VM Size : Standard_DS1_v2
+VM Size : Standard_D2s_v3
