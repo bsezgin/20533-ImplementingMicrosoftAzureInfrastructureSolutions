@@ -1,4 +1,6 @@
 ﻿# 20533D: Implementing Microsoft Azure Infrastructure Solutions
+ 
+## Download Link : https://20533files.blob.core.windows.net/powerpoint/20533D-ENU-PowerPoint.zip 
 
 ## What are we doing?
 
