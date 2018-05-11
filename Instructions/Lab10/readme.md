@@ -5,7 +5,7 @@
 <br>
 Resource Group : 20533D1001-LabRG
 <br>
-Region : EastUS
+Region : West Europe
 <br>
 Artifact Location : https://bulenteststorage.blob.core.windows.net/lab10
 <br>
